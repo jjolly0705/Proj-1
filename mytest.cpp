@@ -1,4 +1,4 @@
-// CMSC 341 - Fall 2026 - Project 1
+// List of Sparse Matrices
 #include "csr.h"
 #include <iostream>
 using namespace std;
